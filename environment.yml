@@ -1,0 +1,9 @@
+name: matmek4270
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - numpy
+  - matplotlib
+  
