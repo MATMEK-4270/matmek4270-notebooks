@@ -1,0 +1,12 @@
+name: fortran
+channels:
+  - conda-forge
+dependencies:
+  - fortran-compiler
+  - jupyter
+  - numpy
+  - numba
+  - scipy
+  - cython
+  - ipykernel
+  - python=3.9
